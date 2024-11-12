@@ -19,7 +19,7 @@ It was designed with the following goals in mind:
 
 **Only IDA v7.5 or later is supported with Python 3.7 and higher** (since we need the microcode Python API) 
 
-Copy this repository in `.idapro/plugins`
+Copy the contents of this repository to `.idapro/plugins` or `%appdata%\Hex-Rays\IDA pro\plugins`.
 
 We recommend to install Z3 to be able to use several features of D-810:
 ```bash
